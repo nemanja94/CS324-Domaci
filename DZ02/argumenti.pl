@@ -5,7 +5,7 @@ use warnings;
 
 #Promenljive
 $broj_prosledjenih_argumenata = $#ARGV;
-$brojac                       = 0;
+$brojac = 1;
 
 #Logika koja proverava unos korisnika
 if ( $broj_prosledjenih_argumenata <= 0 ) {
