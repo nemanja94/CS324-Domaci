@@ -10,18 +10,17 @@ $brojac = 1;
 #Logika koja proverava unos korisnika
 if ( $broj_prosledjenih_argumenata <= 0 ) {
 
-    print "\nNema prosledjenih argumenata!\n\n"
+	print "\nNema prosledjenih argumenata!\n\n"
 
-}
-else {
+}else {
 
-    print "\nProsledjeni argumenati su: \n\n";
+	print "\nProsledjeni argumenati su: \n\n";
 
-    foreach my $a (@ARGV) {
-        print "Argument $brojac : $a\n";
-        $brojac++;
-    }
+	foreach my $a (@ARGV) {
+		print "Argument $brojac : $a\n";
+		$brojac++;
+	}
 
-    print "\n";
+	print "\n";
 
 }
