@@ -4,3 +4,8 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BankAccount	DZ04/BankAccount.pm	5;"	p
+new	DZ04/BankAccount.pm	8;"	s
+podizanje_novca	DZ04/BankAccount.pm	45;"	s
+trenutno_stanje	DZ04/BankAccount.pm	39;"	s
+unos_novca	DZ04/BankAccount.pm	26;"	s
