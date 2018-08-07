@@ -2,6 +2,8 @@
 
 # dz01
 # Kreiranje funkcije foo() koja prima tri argumenta
+
+
 def foo(a, b, c="+"):  # Treci argument je predefinisan kao +
 
     if c in ("*", "+"):  # Proverava da li je treci argument jedan od navedenih
@@ -36,7 +38,7 @@ foo(1, 2)
 ########################################################################################################################
 
 # dz02
-niz = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+niz = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 duzina_niza = len(niz)
 element = 0
 
@@ -90,4 +92,3 @@ print("\nFunkcija init()")
 print(init())
 
 ########################################################################################################################
-
